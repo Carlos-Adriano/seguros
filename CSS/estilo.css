@@ -1,0 +1,48 @@
+body{
+    background-color: whitesmoke;
+}
+div{
+    width: 600px;
+    margin: 20px auto;
+    background-color: #ffffff;
+    padding: 40px 60px 60px 60px;
+}
+h1{
+    font-size: 28px;
+    color: white;
+    background-color: #5ec330;
+    font-family: Verdana;
+    text-align: left;
+    margin-top: 0;
+    margin-bottom: 40px;
+    padding: 10px;
+    border-left: 10px solid black;
+    border-radius: 0 25px 25px 0;
+}
+img{
+    width: 600px;
+}
+p{
+    font-size: 16px;
+    text-align: justify;
+    font-family: tahoma;
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+ol{
+    font-size: 16px;
+    font-family: tahoma;
+}
+a{
+    font-size: 16px;
+    font-family: tahoma;
+    color: white;
+    background-color: #5ec330;
+    border: 5px solid;
+    border-radius: 20px;
+    text-decoration: none;
+    padding: 8px 15px;
+}
+span{
+    font-style: italic;
+}
